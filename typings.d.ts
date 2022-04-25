@@ -16,9 +16,7 @@ export interface Post {
   slug: {
     current: string
   }
-  body: {
-    body: [object]
-  }
+  body: [object]
 }
 
 export interface Comment {
