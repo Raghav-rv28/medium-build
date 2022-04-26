@@ -14,7 +14,7 @@ const Home = ({ posts }: Props) => {
   return (
     <div className="md:mx-auto  md:max-w-7xl">
       <Header />
-      <div className="flex items-center justify-between border-2 border-y-black bg-yellow-500 py-10 lg:py-0">
+      <div className="flex items-center justify-between border-2 border-y-black bg-green-500 py-10 lg:py-0">
         <div className="space-y-5 p-10">
           <h1 className="max-w-xl font-serif text-6xl">
             <span className="underline decoration-black decoration-4">

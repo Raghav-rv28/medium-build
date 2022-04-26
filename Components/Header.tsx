@@ -5,7 +5,7 @@ function header() {
       <div className="flex items-center">
         <Link href="/">
           <img
-            className="w-44 cursor-pointer object-contain"
+            className="h-16 cursor-pointer object-contain"
             src="https://links.papareact.com/yvf"
             alt="medium-logo"
           />
